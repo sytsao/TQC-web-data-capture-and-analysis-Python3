@@ -1,0 +1,6 @@
+- {name: sense1, type: float, value: 31}
+- {name: sense2, type: uint32_t, value: 1234}
+- {name: sense3, type: int32_t, value: 1234}
+- {name: sense4, type: int32_t, value: 0}
+- {name: sense5, type: int32_t, value: 0}
+- {name: sense6, type: int32_t, value: 0}

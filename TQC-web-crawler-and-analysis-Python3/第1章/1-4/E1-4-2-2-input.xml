@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+  <row>
+    <sno>1001</sno>
+    <sna>大鵬華城</sna>
+    <tot>38</tot>
+    <sbi>23</sbi>
+    <sarea>新店區</sarea>
+    <mday>20180611071429</mday>
+    <lat>24.99116</lat>
+    <lng>121.53398</lng>
+    <ar>新北市新店區中正路700巷3號</ar>
+    <sareaen>Xindian Dist.</sareaen>
+    <snaen>Dapeng Community</snaen>
+    <aren>No. 3, Lane 700 Chung Cheng Road, Xindian District</aren>
+    <bemp>15</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1002</sno>
+    <sna>汐止火車站</sna>
+    <tot>56</tot>
+    <sbi>42</sbi>
+    <sarea>汐止區</sarea>
+    <mday>20180611071436</mday>
+    <lat>25.068914</lat>
+    <lng>121.662748</lng>
+    <ar>南昌街/新昌路口(西側廣場)</ar>
+    <sareaen>Xizhi Dist.</sareaen>
+    <snaen>Xizhi Railway Station</snaen>
+    <aren>Nanchang St./Xinchang Rd.</aren>
+    <bemp>14</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1003</sno>
+    <sna>汐止區公所</sna>
+    <tot>46</tot>
+    <sbi>4</sbi>
+    <sarea>汐止區</sarea>
+    <mday>20180611071421</mday>
+    <lat>25.064162</lat>
+    <lng>121.658301</lng>
+    <ar>新台五路一段/仁愛路口(新台五路側汐止地政事務所前機車停車場)</ar>
+    <sareaen>Xizhi Dist.</sareaen>
+    <snaen>Xizhi Dist. Office</snaen>
+    <aren>Sec. 1, Xintai 5th Rd./Ren’ai Rd.</aren>
+    <bemp>42</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1004</sno>
+    <sna>國泰綜合醫院</sna>
+    <tot>56</tot>
+    <sbi>36</sbi>
+    <sarea>汐止區</sarea>
+    <mday>20180611071416</mday>
+    <lat>25.07315</lat>
+    <lng>121.662555</lng>
+    <ar>建成路78號對面停車場</ar>
+    <sareaen>Xizhi Dist.</sareaen>
+    <snaen>Cathay General Hospital</snaen>
+    <aren>No78, Jiancheng Rd</aren>
+    <bemp>20</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1005</sno>
+    <sna>裕隆公園</sna>
+    <tot>40</tot>
+    <sbi>16</sbi>
+    <sarea>新店區</sarea>
+    <mday>20180611071418</mday>
+    <lat>24.979649</lat>
+    <lng>121.546319</lng>
+    <ar>寶中路/品牌路口(東南側)</ar>
+    <sareaen>Xindian Dist.</sareaen>
+    <snaen>Yulon Park</snaen>
+    <aren>Baozhong Rd./</aren>
+    <bemp>24</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1006</sno>
+    <sna>捷運大坪林站(3號出口)</sna>
+    <tot>32</tot>
+    <sbi>16</sbi>
+    <sarea>新店區</sarea>
+    <mday>20180611071439</mday>
+    <lat>24.983977</lat>
+    <lng>121.541721</lng>
+    <ar>寶安街/寶安街58巷(西北側)</ar>
+    <sareaen>Xindian Dist.</sareaen>
+    <snaen>MRT Dapinglin Sta.(Exit.3)</snaen>
+    <aren>Bao'an St./Ln. 58,Bao'an St</aren>
+    <bemp>15</bemp>
+    <act>1</act>
+  </row>
+
+</data>
